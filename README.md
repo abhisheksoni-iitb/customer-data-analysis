@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis
+# Customer-Retention-Analysis-Using-ML
  
 ## Metadata for the columns.
 
